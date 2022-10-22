@@ -1,4 +1,4 @@
-#ATANIS - Keep Your Home Safe
+# ATANIS - Keep Your Home Safe
 
 Project for the Summer School in Cybersecurity for Blockchain at Slovak University of Technology, Bratislava, Slovakia - 2022
 <hr>
