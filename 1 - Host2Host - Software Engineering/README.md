@@ -1,6 +1,6 @@
 # Host2Host
 
-Project for the Software Engineering exam at University of Bologna - 2018
+Project for the Software Engineering exam at University of Bologna - 2021
 <hr>
 
 Software Engineering Report for webapp, including requirements analysis, problem analysis and design. (italian)
