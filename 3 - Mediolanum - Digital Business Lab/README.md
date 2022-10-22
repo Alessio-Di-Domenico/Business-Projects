@@ -1,6 +1,7 @@
 # Mediolanum - Wellbeing within hybrid working context
 
 Project for the Digital Business Lab exam at Polytechnic of Milan - 2022  
+---
 
 The assignment was:  
 
