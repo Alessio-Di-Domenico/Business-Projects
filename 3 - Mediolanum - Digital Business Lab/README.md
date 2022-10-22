@@ -10,7 +10,8 @@ opened new issues such as hyper-connection, technostress, isolation, procrastina
 project is to identify innovative approaches to monitor and/or foster the wellbeing of employees within hybrid working context, making
 hybrid working context more sustainable.
 
-Objectives
+Objectives:
+
 Define innovative solutions able to foster and/or monitor wellbeing of employees within hybrid working context. The new approach will
 be developed in order to achieve the following main objectives:
 -monitor and improve the wellbeing of employees (physical, psychological, relational)
