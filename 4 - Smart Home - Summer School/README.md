@@ -6,4 +6,5 @@ Project for the Summer School in Cybersecurity for Blockchain at Slovak Universi
 Address security problems of IoT devices.
 
 <hr>
-TEam members: &ensp; Alessio Di Domenico - Stephan Havermans - Iulia-Lidia Oltean - Alan Gassine - Tianyu Xu - Nam Cao
+
+Team members: &ensp; Alessio Di Domenico - Stephan Havermans - Iulia-Lidia Oltean - Alan Gassine - Tianyu Xu - Nam Cao
