@@ -20,4 +20,6 @@ be developed in order to achieve the following main objectives:
 -improve the performance of employees
 
 <hr>
-Team members: Alessio Di Domenico - Alessandro Atanassov - Guido Bordonaro - Luca Arango - Lorenzo Iaccarino - Maxim Shkurenko  
+
+
+Team members: &ensp; Alessio Di Domenico - Alessandro Atanassov - Guido Bordonaro - Luca Arango - Lorenzo Iaccarino - Maxim Shkurenko  
