@@ -2,7 +2,7 @@
 
 Project for the Digital Business Lab exam at Polytechnic of Milan - 2022  
 
-The assignment was:
+The assignment was:  
 
 Pandemic has accelerated the shift of the workplace from a physical to virtual space, changing the way we work, and the way we
 interact. Pandemic has generated different consequences that have impacted the wellbeing of employees. Forced remote working has
@@ -18,4 +18,4 @@ be developed in order to achieve the following main objectives:
 -explore new ways of working
 -improve the performance of employees
 
-Team members: Alessio Di Domenico - Alessandro Atanassov - Guido Bordonaro - Luca Arango - Lorenzo Iaccarino - Maxim Shkurenko
+Team members: Alessio Di Domenico - Alessandro Atanassov - Guido Bordonaro - Luca Arango - Lorenzo Iaccarino - Maxim Shkurenko  
