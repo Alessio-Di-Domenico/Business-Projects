@@ -1,3 +1,3 @@
-# University-Projects
+# Business Projects
 
-This folder contains all the projects that I have done during University, there are both technical and business projects.
+This folder contains all the business projects that I have done during my Master's degree.
